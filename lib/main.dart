@@ -50,8 +50,8 @@ class MyButtonState extends State<MyButton>{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Counting Numbers"),
-        backgroundColor: Colors.orange,
+        title: Text("Numbers in spanish"),
+        backgroundColor: Colors.purple,
       ),
       body: Container(
         child: Center(
@@ -65,7 +65,7 @@ class MyButtonState extends State<MyButton>{
                     child : Text('Call on numbers', style: TextStyle(
                       color: Colors.white,
                     ),),
-                    color: Colors.orange,
+                    color: Colors.lightBlue,
                   ),
                 ],
               )

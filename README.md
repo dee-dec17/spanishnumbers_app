@@ -1,6 +1,6 @@
-# my_stateful
+# spanishnumbers_app
 
-A new Flutter project.
+A new Flutter project using stateful widgets.
 
 ## Getting Started
 
